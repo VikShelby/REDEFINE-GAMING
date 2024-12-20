@@ -437,13 +437,3 @@ Assets used in the project can be found [here](https://drive.google.com/file/d/1
 
 ## <a name="more">🚀 More</a>
 
-**Advance your skills with Next.js Pro Course**
-
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with
-detailed explanations, cool features, and exercises to boost your skills. Give it a go!
-
-<a href="https://jsmastery.pro/next15" target="_blank">
-   <img src="https://github.com/user-attachments/assets/b8760e69-1f81-4a71-9108-ceeb1de36741" alt="Project Banner">
-</a>
-#   R E D E F I N E - G A M I N G  
- 
